@@ -1,13 +1,12 @@
 # Задание 1
 
 # три команды
-print("G", "l", "o",  sep="", end=" ")
-print("Aca", "de", sep="", end="")
-print("my")
-
+print("Glo", "Academy",  sep=" ")
 print()
-# одна команда
 print("Glo Academy")
+
+# одна команда
+print("Glo Academy", "Glo Academy", sep="\n\n")
 
 # Задание 2
 print("_____________")
