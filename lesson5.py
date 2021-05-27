@@ -1,8 +1,8 @@
 from math import ceil
 
 # exercise 1
-ex1_num1 = int(input())
-ex1_num2 = int(input())
+ex1_num1 = input()
+ex1_num2 = input()
 
 if ex1_num1 == ex1_num2:
     print("Все окей!")
