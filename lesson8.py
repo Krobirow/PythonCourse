@@ -1,12 +1,10 @@
 from math import ceil
 # exercise 1
-ex1_num = 33
+ex1_num = 24
 count = 0
-while (ex1_num // 2) % 2 == 0:
+while ex1_num % 2 == 0:
     ex1_num = ex1_num // 2
-    print(ex1_num)
     count += 1
-
 print(count)
 
 # exercise 2
