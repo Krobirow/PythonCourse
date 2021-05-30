@@ -1,6 +1,6 @@
 
 # exercise 1
-for i in range(26):
+for i in range(25):
     print("Hello, GloAcademy!")
 
 # exercise 2
